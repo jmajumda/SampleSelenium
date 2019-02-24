@@ -13,7 +13,7 @@ public class Sample {
   }
 
   @AfterClass
-  public void afterClass() {System.out.println("This is afterclass");
+  public void afterClass() {System.out.println("This is afterclass 1");
   }
 
 }
