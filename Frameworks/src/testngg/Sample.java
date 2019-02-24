@@ -8,6 +8,10 @@ public class Sample {
   @Test
   public void f() {System.out.println("This is test");
   }
+  @Test
+  public void f2(){
+    System.out.println("This is added via GitHub");
+  }
   @BeforeClass
   public void beforeClass() {System.out.println("This is beforeclass 1");
   }
