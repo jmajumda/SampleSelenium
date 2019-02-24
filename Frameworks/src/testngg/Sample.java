@@ -9,7 +9,7 @@ public class Sample {
   public void f() {System.out.println("This is test");
   }
   @BeforeClass
-  public void beforeClass() {System.out.println("This is beforeclass");
+  public void beforeClass() {System.out.println("This is beforeclass 1");
   }
 
   @AfterClass
